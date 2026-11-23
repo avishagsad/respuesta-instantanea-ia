@@ -11,7 +11,7 @@ Pre-entrega 7 del curso IA Aplicada para 4to Año (Nivel 2).
 | Herramienta | Make |
 | Módulo de IA | Make AI Toolkit |
 | Escenario | Respuesta instantánea con IA - Club de estudio |
-| Documentación | [Página de Notion](https://www.notion.so/421675bf497781589ba1ee34a55fa740) |
+| Documentación | [Página de Notion]([https://www.notion.so/421675bf497781589ba1ee34a55fa740](https://app.notion.com/p/Respuesta-instantanea-con-IA-Make-421e2addd6a78008ad4dc880e807d9a1?source=copy_link)) |
 
 ## Objetivo
 
